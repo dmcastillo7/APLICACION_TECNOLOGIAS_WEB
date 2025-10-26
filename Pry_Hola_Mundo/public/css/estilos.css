@@ -1,0 +1,23 @@
+    h1{
+        color: blue;
+        font-size: 45px;
+        text-align: center;
+    }
+    h2{
+        color: green;
+        font-size: 36px;
+        background-color: aquamarine;
+        text-align: center;
+    }
+
+    /* clases .titulo */
+    .titulo{
+        color: red;
+        font-weight: bold;
+    }
+
+    /* id #titulo_adios */
+
+    #titulo_adios {
+        color: orange;
+    }
